@@ -1,5 +1,8 @@
 _repo: Hanky-Panky-b-A-book-of-conjuring-tricks_71463
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71463-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Cremer, William Henry
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '56252'
     url: http://www.gutenberg.org/2009/agents/56252
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71463#Hanky-Panky-b-A-book-of-conjuring-tricks
 gutenberg_issued: '2023-08-21'
 identifiers:
   gutenberg: '71463'
